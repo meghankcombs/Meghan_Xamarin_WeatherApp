@@ -1,12 +1,12 @@
-C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.deps.json
-C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.dll
-C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.pdb
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.csprojResolveAssemblyReference.cache
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.csproj.CoreCompileInputs.cache
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.App.xaml.g.cs
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.MainPage.xaml.g.cs
+C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.WeatherPage.xaml.g.cs
+C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.deps.json
+C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.dll
+C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\bin\Debug\netstandard2.0\Meghan_WeatherApp.pdb
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.AssemblyInfoInputs.cache
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.AssemblyInfo.cs
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.dll
 C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.pdb
-C:\Users\meghancombs\source\repos\Meghan_WeatherApp\Meghan_WeatherApp\Meghan_WeatherApp\obj\Debug\netstandard2.0\Meghan_WeatherApp.WeatherPage.xaml.g.cs

@@ -24,8 +24,14 @@ namespace Meghan_WeatherApp
 
         private async void GetWeatherBtn_Clicked(object sender, EventArgs e)
         {
-            Weather weather = await Core.GetWeather("60601");
-            getWeatherBtn.Text = weather.Title;
+            //Weather weather = await Core.GetWeather("60601");
+            //getWeatherBtn.Text = weather.Title;
+            if (!String.IsNullOrEmpty(zipCodeEntry.Text))
+            {
+                Weather weather = await Core.GetWeather(zipCodeEntry.Text);
+                this.BindingContext = weather;
+                getWeatherBtn.Text = "Search Again";
+            }
         }
 	}
 }
