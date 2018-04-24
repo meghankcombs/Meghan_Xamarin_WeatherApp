@@ -11,7 +11,7 @@
             <Style x:Key="fieldStyle" TargetType="Label">
                 <Setter Property="TextColor">
                     <OnPlatform x:TypeArguments="Color" iOS="Black" 
-                                Android="White" WinPhone="White" />
+                                Android="Black" WinPhone="White" />
                 </Setter>
                 <Setter Property="FontSize" Value="Medium" />
             </Style>

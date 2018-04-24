@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,7 @@ namespace Meghan_WeatherApp
             string queryString = "http://api.openweathermap.org/data/2.5/weather?zip=" + zipCode 
                 + ",us&appid=" + key + "&units=imperial";
 
-            dynamic results = await DataService.getDataFromService(queryString).ConfigureAwait(false);
+            JObject results = await DataService.getDataFromService(queryString).ConfigureAwait(false);
 
             if(results["weather"] != null)
             {
